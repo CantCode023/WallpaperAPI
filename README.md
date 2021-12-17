@@ -1,5 +1,5 @@
-<h1>Wallpaper API</h1>
-<h2>Amazing wallpapers in one go.</h2>
+<p>Wallpaper API</p>
+<p>Amazing wallpapers in one go.</p>
 
 <hr>
 
